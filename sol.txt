@@ -1,0 +1,2 @@
+firefox --kiosk "https://www.hackerrank.com/code-clash-1742887396"
+
